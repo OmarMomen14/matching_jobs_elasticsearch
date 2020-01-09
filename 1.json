@@ -1,0 +1,9 @@
+{
+	"position_title": "Data Scientist",
+    "salary": 3000,
+    "job_description": "Create and implement various statistical models, analysis, ad-hoc reporting and dashboard creation to address business requirements",
+    "job_requirements": "Knowledge of telecommunication industry with knowledge of business/functional areas is preferred, Good applied statistical skills such as distribution, statistical testing, regression, etc, Intermediate knowledge SQL, Python, R, Spark R or equivalent, Fair knowledge of Big Data analysis and management with Apache tools such as Cloudera, Zookeeper, Pig, Hive, HBase, Solr etc, Experience with machine learning algorithms and classifiers such as k-NN, Naive Bayes, SVM, Random Forest, Linear Regression, ARIMA, Neural Nets, Deep learning, etc., Fair knowledge of data management and maintenance through tools such as Data warehousing solutions, ETL, SAP Data Management, SSIS, Cloud technologies etc, Good communication skills",
+    "years_of_experience": "2",
+    "qualification_level": "BA/BS degree engineering, statistics, computer science or related field"
+
+}
